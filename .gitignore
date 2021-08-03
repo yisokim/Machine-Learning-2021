@@ -9,6 +9,7 @@ __pycache__/
 
 labeledTrainData.tsv
 model/
+img/
 
 # C extensions
 *.so
